@@ -1,0 +1,23 @@
+body{
+    background-color:blue;
+}
+p{
+    color: white;
+}
+/*class background color black for index html paragrath
+*/
+.text{
+    background-color: black;
+}
+h1{
+    color: red;
+}
+/*this ia a contact class attribute
+*/
+.contact{
+    background-color: blue;
+}
+
+#about{
+    background-color: orange;
+}
